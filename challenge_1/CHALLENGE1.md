@@ -48,3 +48,5 @@ Python has gaming libraries but all of them require you to have a strong foundat
 I've decided to leave this up to you for now. A huge part of being good with computers is figuring out how to learn effectively and quickly. That might be a book for you, maybe it's just reading blogs, maybe it's a website. Different people work differently. Personally, I tend to read websites and Google blog posts for more specific problems.
 
 If you want a For Dummies book, you could try [this one](https://archive.org/details/python-all-in-one-for-dummies/Python%20All-In-One%20for%20Dummies)
+
+For memorizing things I strongly recommend [Anki](https://apps.ankiweb.net/#download)
