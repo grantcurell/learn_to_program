@@ -53,6 +53,14 @@ Take it on piece by piece until you understand the entire thing. Even I do this 
 
 ![](images/2021-04-21-11-14-32.png)
 
-I had absolutely no idea what it meant. None whatsoever. Might as well have been nonsense language. So I started by just asking ok... what does $L_a$ mean? Just that one variable. Then I did $X$ and $h$. Finally, I tackled $P(h|X,L_a)$. Hour and hours later (plus a lengthy explanation from a friend) I knew what the whole thing meant.
+I had absolutely no idea what it meant. None whatsoever. Might as well have been nonsense language. So I started by just asking ok... what do these three variables mean:
+
+![](images/2021-04-21-11-27-22.png)
+
+After that I figured out what this meant:
+
+![](images/2021-04-21-11-27-43.png)
+
+Then I kept doing that for everything else you see on that original page until it all made sense. I don't know how many hours I spent in total having to go back and review previosu parts of the book... but it was a lot. Plus a friend helped me.
 
 Like you said, determination is everything.
