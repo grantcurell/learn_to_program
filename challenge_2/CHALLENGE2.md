@@ -53,6 +53,6 @@ Take it on piece by piece until you understand the entire thing. Even I do this 
 
 ![](images/2021-04-21-11-14-32.png)
 
-I had absolutely no idea what it meant. None whatsoever. Might as well have been nonsense language. So I started by just asking ok... what does $\mathcal{L_a}$ mean? Just that one variable. Then I did $\mathcal{X}$ and $\mathcal{h}$. Finally, I tackled $\mathcal{P(h|X,L_a)}$. Hour and hours later (plus a lengthy explanation from a friend) I knew what the whole thing meant.
+I had absolutely no idea what it meant. None whatsoever. Might as well have been nonsense language. So I started by just asking ok... what does $L_a$ mean? Just that one variable. Then I did $X$ and $h$. Finally, I tackled $P(h|X,L_a)$. Hour and hours later (plus a lengthy explanation from a friend) I knew what the whole thing meant.
 
 Like you said, determination is everything.
